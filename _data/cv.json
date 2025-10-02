@@ -92,6 +92,41 @@
       "releaseDate": "2024-02-17",
       "website": "http://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
+    },
+    {
+      "name": "Towards Non-Invasive Swallowing Assessment: an AI-Powered Interface for Swallowing Kinematic Analysis using High-Resolution Cervical Auscultation",
+      "publisher": "IEEE Engineering in Medicine & Biology Conference (EMBC) 2024",
+      "releaseDate": "2024-07-01",
+      "website": "https://doi.org/10.1109/EMBC53108.2024.10781763",
+      "summary": "This paper presents an AI-powered interface for swallowing kinematic analysis using high-resolution cervical auscultation, enabling non-invasive assessment of swallowing function."
+    },
+    {
+      "name": "MPVision: Automated Microplastic Detection and Classification via Computer Vision",
+      "publisher": "ICCV 2025 CV4E Workshop",
+      "releaseDate": "2025-10-01",
+      "website": "https://openreview.net/pdf?id=eX0NVLprtF",
+      "summary": "We present MPVision, an end-to-end computer vision pipeline that automates microplastic detection, classification, and measurement, achieving over 95% accuracy while reducing analysis time by nearly an order of magnitude."
+    },
+    {
+      "name": "VibraForge: A Scalable Prototyping Toolkit For Creating Spatialized Vibrotactile Feedback Systems",
+      "publisher": "ACM CHI 2025",
+      "releaseDate": "2024-09-25",
+      "website": "https://arxiv.org/abs/2409.17420",
+      "summary": "VibraForge introduces a scalable, open-source toolkit for building spatialized vibrotactile feedback systems, enabling up to 128 actuators with fine-grained control, supported by a GUI editor and validated through case studies in phonemic displays, VR fitness, and drone teleoperation."
+    },
+    {
+      "name": "TactileNet: A Prototype System for Realistic Touch Sensation Transmission over the Internet",
+      "publisher": "UIST 2024",
+      "releaseDate": "2024-07-01",
+      "website": "https://dl.acm.org/doi/10.1145/3672539.3686731",
+      "summary": "TactileNet introduces a prototype system that combines gesture recognition, depth estimation, and a novel roller-based actuator to transmit realistic touch sensations over the internet, enhancing remote haptic communication."
+    },
+    {
+      "name": "Accelerometer signal encoding using deep learning and spectrograms for swallowing classification",
+      "publisher": "IEEE EMBS (In submission)",
+      "releaseDate": "2024-06-01",
+      "website": "",
+      "summary": "This work introduces spectrogram-based CNN and RNN encoders that compress high-dimensional HRCA signals into compact representations while preserving critical swallowing features, achieving state-of-the-art accuracy for dysphagia classification and supporting real-time bedside assessment."
     }
   ],
   "presentations": [
